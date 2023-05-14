@@ -109,10 +109,5 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>5.0.3</version>
 		</dependency>
-		<dependency>
-			<groupId>com.usa.smarttech</groupId>
-			<artifactId>Selenium_Automation_B34</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 </project>
